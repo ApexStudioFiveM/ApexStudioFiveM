@@ -1,143 +1,133 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A0A0A,50:00BFFF,100:0A0A0A&text=Apex%20Studio&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Premium%20FiveM%20Development&descAlignY=58"/>
+# 🚀 Apex Studio
 
-# 👋 Welcome to Apex Studio
+### Learning Lua • Building Optimized FiveM Resources
 
-### 🚓 FiveM Developer • 💙 Lua Programmer • ⚡ Premium Resources
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=00BFFF&center=true&vCenter=true&width=800&lines=Learning+Lua+Every+Day;Building+Optimized+FiveM+Scripts;ESX+%7C+QBCore+%7C+Standalone;Streaming+My+Development+Journey;Welcome+to+Apex+Studio"/>
 
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=00BFFF&center=true&vCenter=true&width=750&lines=Building+Premium+FiveM+Resources;Lua+Developer;ESX+%7C+QBCore+%7C+Standalone;Live+Coding+on+Twitch;Welcome+to+Apex+Studio"/>
-</p>
+<br>
 
-<p>
 <a href="https://github.com/ApexStudioFiveM">
-<img src="https://img.shields.io/github/followers/ApexStudioFiveM?style=for-the-badge&logo=github&label=Followers"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://discord.gg/MtYYepWqhw">
-<img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord"/>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Twitch-Live-9146FF?style=for-the-badge&logo=twitch"/>
+<a href="https://www.twitch.tv/YOUR_TWITCH">
+<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube"/>
+<a href="https://www.youtube.com/@YOUR_CHANNEL">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Tebex-Store-orange?style=for-the-badge"/>
+<a href="https://YOURSTORE.tebex.io">
+<img src="https://img.shields.io/badge/Tebex-FF8C00?style=for-the-badge"/>
 </a>
-
-</p>
 
 </div>
 
 ---
 
-# 💻 About Apex Studio
+# 👋 About Me
 
-We build high-quality FiveM resources with a focus on performance, clean code, and modern UI.
+I'm currently learning **Lua** while building my knowledge of **FiveM development**.
 
-### 🔥 Current Focus
+My goal is to create **clean, optimized, and high-performance FiveM resources** with a focus on maintainable code, modern UI, and performance.
 
-- Premium FiveM Scripts
-- Lua Development
-- ESX Resources
-- QBCore Resources
-- Standalone Systems
-- Modern NUI
-- Open Source Projects
+I'm sharing my learning journey as I improve my skills and contribute to the FiveM community.
 
 ---
 
-# ⚙️ Tech Stack
+## 🎯 Current Focus
+
+- 📚 Learning Lua
+- ⚡ Optimizing FiveM Scripts
+- 🚓 ESX Development
+- 📦 QBCore Development
+- 🔧 Standalone Resources
+- 🎨 Modern NUI Interfaces
+- 🌍 Open Source Projects
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=lua,js,ts,html,css,nodejs,react,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=lua,html,css,js,git,github,vscode"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ApexStudioFiveM&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ApexStudioFiveM&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApexStudioFiveM&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApexStudioFiveM&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=ApexStudioFiveM&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+## 🎯 Goals
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ApexStudioFiveM&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ApexStudioFiveM&theme=tokyo-night"/>
-
-</p>
+- 📚 Master Lua
+- ⚡ Build optimized FiveM resources
+- 🚀 Create clean and efficient scripts
+- 🎥 Stream development on Twitch
+- 📺 Publish FiveM tutorials on YouTube
+- 🌍 Grow the Apex Studio community
+- 🤝 Contribute to open-source FiveM projects
 
 ---
 
-# 🏆 GitHub Trophies
+<div align="center">
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ApexStudioFiveM&theme=algolia&no-frame=true&column=4"/>
-
-</p>
-
-# 🎯 2026 Goals
-
-- ✅ Master Lua
-- 🚀 Release Premium FiveM Resources
-- 📺 Upload Weekly Tutorials
-- 🎥 Stream Development Live
-- 🌍 Grow Apex Studio Community
-- 💻 Open Source Projects
-
----
-
-# 🌐 Connect
-
-<p align="center">
-
-<a href="https://discord.gg/MtYYepWqhw">
-<img src="https://skillicons.dev/icons?i=discord"/>
-</a>
+## 🌐 Connect
 
 <a href="https://github.com/ApexStudioFiveM">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-</p>
+&nbsp;&nbsp;
 
----
+<a href="https://discord.gg/MtYYepWqhw">
+<img src="https://skillicons.dev/icons?i=discord"/>
+</a>
 
-<p align="center">
+&nbsp;&nbsp;
+
+<a href="https://www.twitch.tv/YOUR_TWITCH">
+<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.youtube.com/@YOUR_CHANNEL">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=ApexStudioFiveM&style=for-the-badge"/>
 
-</p>
+### 💙 Learn • Build • Optimize
 
-<div align="center">
+*"Every expert was once a beginner. This profile documents my journey into FiveM development."*
 
-### ⭐ Thanks for visiting Apex Studio ⭐
+⭐ **Thanks for visiting Apex Studio!
 
 </div>
