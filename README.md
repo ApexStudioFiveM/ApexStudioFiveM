@@ -16,11 +16,11 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<a href="https://www.twitch.tv/YOUR_TWITCH">
+<a href="https://www.twitch.tv/apexstudiofivem">
 <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
 </a>
 
-<a href="https://www.youtube.com/@YOUR_CHANNEL">
+<a href="https://www.youtube.com/@ApexStudioFiveM">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
