@@ -58,7 +58,7 @@ I'm sharing my learning journey as I improve my skills and contribute to the Fiv
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=lua,html,css,js,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=lua,github,vscode"/>
 
 </p>
 
@@ -110,13 +110,13 @@ I'm sharing my learning journey as I improve my skills and contribute to the Fiv
 
 &nbsp;&nbsp;
 
-<a href="https://www.twitch.tv/YOUR_TWITCH">
+<a href="https://www.twitch.tv/apexstudiofivem">
 <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
 </a>
 
 &nbsp;&nbsp;
 
-<a href="https://www.youtube.com/@YOUR_CHANNEL">
+<a href="https://www.youtube.com/@ApexStudioFiveM">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
